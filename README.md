@@ -8,7 +8,7 @@ I have extensive experience across Travel and Design, and having been heavily in
 | ---------------------------- | ----------------- | ----------------- |
 | **Road Trip Planner**        | Travel project using Material UI and the Google Maps API. The result is an application where users can input their origin and destination to receive curated lists of nearby attractions. | MongoDB, Express, React, ES6, Node; JavaScript; Jest, Cypress; Material UI; Google Maps API |
 | **Acebook Mern Water** | Built a social platform with user-friendly features such as user registration, post creation, commenting, and liking functionality, using the MERN stack. | MongoDB, Express, React, Node; JavaScript; Jest, Cypress.              |
-| Scar MakersBnB | Developed Makers BNB, a service based on the Flask framework, simplifying accommodation search for travellers. | Python, Flask, Pytest, PostgreSQL. |
+| **Scar MakersBnB** | Developed Makers BNB, a service based on the Flask framework, simplifying accommodation search for travellers. | Python, Flask, Pytest, PostgreSQL. |
 
 ## Work Experience
 
@@ -29,6 +29,7 @@ _Founder_
 - Managed flights, transfers, and effectively addressed travel disruptions.
 
 **TMM-Ukraine** (Dec 2014 - Present)
+
 _Motion Designer and Music Editor_
 
 - Produced promotional and image-building animated videos for global brands, establishing long-term partnerships and client satisfaction.
@@ -38,47 +39,37 @@ _Motion Designer and Music Editor_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+I honed my communication skills during my tenure as the Founder of SKY Travel Agency, where I designed and sold individual tours, ensuring exceptional customer experiences. Effective communication was pivotal in understanding and meeting the unique needs of each traveler. Additionally, I successfully grew the agency's Instagram profile to 2,000 followers in just three months through compelling visual content, showcasing my ability to convey messages effectively through visuals and captions.
 
-#### Another skill
+#### Leadership and Teamwork
+In my role as a Motion Designer and Music Editor at TMM-Ukraine advertising agency, I led and expanded the department, achieving a remarkable 500% increase in project efficiency. My ability to lead and collaborate with a team was instrumental in establishing long-term partnerships with global brands and ensuring client satisfaction. Furthermore, during my studying at Makers Academy, I fostered effective teamwork by collaborating with fellow learners to identify feasible Minimum Viable Products (MVPs) for group projects and delivering them within stipulated deadlines.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Customer-Centric Approach
+While managing SKY Travel Agency, I developed a strong customer-focused mindset. Designing and selling individual tours required me to prioritize customer satisfaction and provide tailored solutions. Additionally, I provided 24/7 customer support, demonstrating a commitment to resolving issues promptly and ensuring a seamless travel experience for our clients.
 
-#### Another skill
+#### Adaptability and Continuous Learning
+My journey from the creative industries into software development showcases my adaptability and self-motivation. I embraced the challenge of learning new skills and exploring automation and programming, leading me to complete the Makers software bootcamp. I am inherently curious, always seeking opportunities to expand my knowledge and skill set. This trait has been invaluable in my transition to software engineering, where I am continuously learning and staying updated on the latest technologies.
+
+#### Seeking Support and Feedback
+During my time at Makers Academy, I actively sought support and feedback from mentors, instructors, and peers to enhance my coding skills. This proactive approach allowed me to accelerate my learning and improve my problem-solving abilities. I believe that seeking guidance and leveraging the expertise of others is essential for personal and professional growth.
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy Software Development Bootcamp (May 2023 – Sep 2023)  
 
-#### Your University / College (start_date to end_date)
+- Acquired foundational principles of software engineering, including Object-Oriented Programming (OOP), Test-Driven Development (TDD), and SOLID, as well as Agile and Extreme Programming (XP) methodologies. 
+- Proficient in a diverse tech stack, encompassing Python, TypeScript, JavaScript, React, Node.js, Express.js, Pytest, Jest, Cypress, MongoDB, and PostgreSQL. 
+- Fostered effective teamwork by collaborating with other learners to identify feasible Minimum Viable Products (MVPs) for group projects and delivering them within stipulated deadlines. 
+- Demonstrated exceptional personal standards while undertaking independent projects.
+#### Kyiv National University of Trade and Economics, Kharkiv Branch (Sep 2009 - Jun 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Marketing 
+- MSc
+- Pricing, Marketing Research, Product Policy, Public Relations, Retail Marketing
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Passionate Traveller: explored 46 countries in the past 5 years, always eager to share travel stories and recommendations.
