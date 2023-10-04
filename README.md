@@ -1,25 +1,40 @@
-## Your Name
+## Denis Shkodynskyi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I have extensive experience across Travel and Design, and having been heavily involved in creative industries meant I was able to problem-solve and provide solutions that meet customer needs. The roles gave me an opportunity to explore the world of automation and programming, which sparked my interest and led me to complete the Makers software bootcamp.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Road Trip Planner**        | Travel project using Material UI and the Google Maps API. The result is an application where users can input their origin and destination to receive curated lists of nearby attractions. | MongoDB, Express, React, ES6, Node; JavaScript; Jest, Cypress; Material UI; Google Maps API |
+| **Acebook Mern Water** | Built a social platform with user-friendly features such as user registration, post creation, commenting, and liking functionality, using the MERN stack. | MongoDB, Express, React, Node; JavaScript; Jest, Cypress.              |
+| Scar MakersBnB | Developed Makers BNB, a service based on the Flask framework, simplifying accommodation search for travellers. | Python, Flask, Pytest, PostgreSQL. |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Makers Academy Software Development Bootcamp** (May 2023 – Sep 2023)  
+_Junior Software Developer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Acquired foundational principles of software engineering, including Object-Oriented Programming (OOP), Test-Driven Development (TDD), and SOLID, as well as Agile and Extreme Programming (XP) methodologies. 
+- Proficient in a diverse tech stack, encompassing Python, TypeScript, JavaScript, React, Node.js, Express.js, Pytest, Jest, Cypress, MongoDB, and PostgreSQL. 
+- Fostered effective teamwork by collaborating with other learners to identify feasible Minimum Viable Products (MVPs) for group projects and delivering them within stipulated deadlines. 
+- Demonstrated exceptional personal standards while undertaking independent projects.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**SKY Travel Agency** (Oct 2021 - Feb 2022)  
+_Founder_
 
-- Any experience relevent to software development
+- Designed and sold 15+ individual tours, ensuring exceptional customer experiences and fostering repeat business.
+- Successfully grew the Instagram profile to 2,000 followers in just three months through compelling visual content.
+- Provided 24/7 customer support with a focus on resolving issues promptly.
+- Managed flights, transfers, and effectively addressed travel disruptions.
+
+**TMM-Ukraine** (Dec 2014 - Present)
+_Motion Designer and Music Editor_
+
+- Produced promotional and image-building animated videos for global brands, establishing long-term partnerships and client satisfaction.
+-	Managed music databases and programmed Powergold playlists, enhancing in-store ambiance and customer experience.
+-	Led and expanded the department, achieving a 500% increase in project efficiency through effective team management.
+
 
 ## Skills
 
