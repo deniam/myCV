@@ -1,6 +1,10 @@
-## Denis Shkodynskyi
+# Denis Shkodynskyi
+
+## Summary
 
 I have extensive experience across Travel and Design, and having been heavily involved in creative industries meant I was able to problem-solve and provide solutions that meet customer needs. The roles gave me an opportunity to explore the world of automation and programming, which sparked my interest and led me to complete the Makers software bootcamp.
+
+In addition to my experience, I have a solid foundation in JavaScript and Python, leveraging them to develop applications and enhance user experiences. Recognizing the growing importance of Java and Kotlin in the industry, I have proactively embarked on learning the fundamentals of both languages. While my proficiency is in its early stages, I am dedicated to rapidly building my skills and applying them effectively to contribute to projects that demand expertise in Java and Kotlin. My drive to continually expand my knowledge demonstrates my commitment to staying relevant and versatile in the rapidly evolving tech landscape.
 
 ## Projects
 
