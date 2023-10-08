@@ -20,7 +20,7 @@ In addition to my experience, I have a solid foundation in JavaScript and Python
 _Junior Software Developer_
 
 - Acquired foundational principles of software engineering, including Object-Oriented Programming (OOP), Test-Driven Development (TDD), and SOLID, as well as Agile and Extreme Programming (XP) methodologies. 
-- Proficient in a diverse tech stack, encompassing Python, TypeScript, JavaScript, React, Node.js, Express.js, Pytest, Jest, Cypress, MongoDB, and PostgreSQL. 
+- Proficient in a diverse tech stack, encompassing Python, TypeScript, JavaScript, React, Node.js, Express.js, Pytest, Jest, Cypress, MongoDB, HTTP and PostgreSQL. 
 - Fostered effective teamwork by collaborating with other learners to identify feasible Minimum Viable Products (MVPs) for group projects and delivering them within stipulated deadlines. 
 - Demonstrated exceptional personal standards while undertaking independent projects.
 
@@ -43,20 +43,31 @@ _Motion Designer and Music Editor_
 
 ## Skills
 
-#### Communication
-I honed my communication skills during my tenure as the Founder of SKY Travel Agency, where I designed and sold individual tours, ensuring exceptional customer experiences. Effective communication was pivotal in understanding and meeting the unique needs of each traveler. Additionally, I successfully grew the agency's Instagram profile to 2,000 followers in just three months through compelling visual content, showcasing my ability to convey messages effectively through visuals and captions.
+#### User Experience Focus
+Throughout my career, I have consistently prioritized the user experience. In roles at SKY Travel Agency, I designed and marketed individual tours with a strong emphasis on ensuring exceptional customer experiences. My commitment to understanding and addressing the unique needs of each traveler underscores my dedication to user-centric thinking.
 
-#### Leadership and Teamwork
-In my role as a Motion Designer and Music Editor at TMM-Ukraine advertising agency, I led and expanded the department, achieving a remarkable 500% increase in project efficiency. My ability to lead and collaborate with a team was instrumental in establishing long-term partnerships with global brands and ensuring client satisfaction. Furthermore, during my studying at Makers Academy, I fostered effective teamwork by collaborating with fellow learners to identify feasible Minimum Viable Products (MVPs) for group projects and delivering them within stipulated deadlines.
+#### Product Mindset
+My experience as a student at Makers Academy has instilled in me a product mindset. I am skilled in identifying feasible Minimum Viable Products (MVPs) and collaborating with peers to deliver them within designated timeframes. This approach aligns with a strong product-oriented mindset.
 
-#### Customer-Centric Approach
-While managing SKY Travel Agency, I developed a strong customer-focused mindset. Designing and selling individual tours required me to prioritize customer satisfaction and provide tailored solutions. Additionally, I provided 24/7 customer support, demonstrating a commitment to resolving issues promptly and ensuring a seamless travel experience for our clients.
+#### Can-Do Attitude and Continuous Learning
+I have a strong can-do attitude and a thirst for continuous learning. While transitioning from creative industries to software development, I acquired a solid foundation in JavaScript and Python, using them to create applications and enhance user experiences.
 
-#### Adaptability and Continuous Learning
-My journey from the creative industries into software development showcases my adaptability and self-motivation. I embraced the challenge of learning new skills and exploring automation and programming, leading me to complete the Makers software bootcamp. I am inherently curious, always seeking opportunities to expand my knowledge and skill set. This trait has been invaluable in my transition to software engineering, where I am continuously learning and staying updated on the latest technologies.
+Recognizing the industry's demand, I proactively started learning Java and Kotlin, mastering their syntax, data types, and basic control structures. I'm now diving deeper into object-oriented programming concepts like classes, inheritance, and polymorphism. My commitment to rapid skill development makes me a valuable asset for projects requiring Java and Kotlin expertise, all while embracing continuous learning in a fast-paced tech landscape.
 
-#### Seeking Support and Feedback
-During my time at Makers Academy, I actively sought support and feedback from mentors, instructors, and peers to enhance my coding skills. This proactive approach allowed me to accelerate my learning and improve my problem-solving abilities. I believe that seeking guidance and leveraging the expertise of others is essential for personal and professional growth.
+#### Creating Customer Value
+In my role at SKY Travel Agency, I prioritized creating customer value by designing and marketing individual tours tailored to meet the unique needs of travelers. My commitment to exceptional customer experiences demonstrates my dedication to this aspect.
+
+#### Accountability and Ownership
+Throughout my career, I have consistently demonstrated a strong sense of accountability and ownership. Whether in managing projects at SKY Travel Agency or collaborating with peers at Makers Academy, I take personal responsibility for delivering results and ensuring the success of projects.
+
+#### Results-Oriented
+I possess a results-oriented mindset, exemplified by my ability to efficiently manage projects and deliver exceptional outcomes. My experience in both the creative industries and software development highlights my commitment to achieving tangible results.
+
+#### Positivity and Continuous Evolution
+My career journey reflects my adaptability and positivity in the face of change. I transitioned from creative industries to software development, embracing new challenges and continuously evolving my skill set. I am an advocate for the continuous evolution of teams and their capabilities.
+
+#### Excellent Communication
+Effective communication has been pivotal in my career. Whether through compelling visual content, written captions, or technical documentation, I excel in conveying messages effectively. My communication skills extend to technical documentation, where I can proficiently document processes and procedures where required.
 
 
 ## Education
